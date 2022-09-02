@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ericpeterson91/react-temperature-app-sep2022/static/css/main.a0c2ebc3.css",
-    "main.js": "/ericpeterson91/react-temperature-app-sep2022/static/js/main.1f1f84cf.js",
-    "index.html": "/ericpeterson91/react-temperature-app-sep2022/index.html",
-    "main.a0c2ebc3.css.map": "/ericpeterson91/react-temperature-app-sep2022/static/css/main.a0c2ebc3.css.map",
-    "main.1f1f84cf.js.map": "/ericpeterson91/react-temperature-app-sep2022/static/js/main.1f1f84cf.js.map"
+    "main.css": "/react-temperature-app-sep2022/static/css/main.a0c2ebc3.css",
+    "main.js": "/react-temperature-app-sep2022/static/js/main.1f1f84cf.js",
+    "index.html": "/react-temperature-app-sep2022/index.html",
+    "main.a0c2ebc3.css.map": "/react-temperature-app-sep2022/static/css/main.a0c2ebc3.css.map",
+    "main.1f1f84cf.js.map": "/react-temperature-app-sep2022/static/js/main.1f1f84cf.js.map"
   },
   "entrypoints": [
     "static/css/main.a0c2ebc3.css",
